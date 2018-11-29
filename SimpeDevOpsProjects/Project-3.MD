@@ -64,3 +64,4 @@ D) send files or execute commands over SSH
 
 10. Access web application from browser which is running on container
 <docker_host_Public_IP>:8090
+important command :chgrp docker /var/run/docker.sock
